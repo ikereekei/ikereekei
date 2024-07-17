@@ -1,4 +1,5 @@
-## Hi there 👋
+@@ -1,16 +1,12 @@
+### Hi there 👋
 
 <!--
 **ikereekei/ikereekei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

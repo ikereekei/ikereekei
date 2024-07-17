@@ -1,14 +1,5 @@
-@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi, I'm Erick! :)
 
-<!--
-**ikereekei/ikereekei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### Hi, I'm Erick!
-
-Here are some ideas to get you started:
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Otago, New Zealand<br/>
-🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
-🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
-💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
+👩🏻‍💻 Fresh graduate aspiring to be a Data Analyst <br/>
+📜 Studied [Data Science and Business Analytics](https://www.sim.edu.sg/degrees-diplomas/programmes/programme-listing/bachelor-of-science-honours-data-science-and-business-analytics) at SIM University, Singapore <br/>
+💪 Currently working on upskilling myself to land me my first job 

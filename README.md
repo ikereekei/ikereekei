@@ -2,7 +2,6 @@
 
 👩🏻‍💻 Fresh graduate aspiring to be a Data Analyst <br/>
 📜 Studied [Data Science and Business Analytics](https://www.sim.edu.sg/degrees-diplomas/programmes/programme-listing/bachelor-of-science-honours-data-science-and-business-analytics) at SIM University, Singapore <br/>
-💪 Currently working on upskilling myself to land me my first job 
 
 ![](https://github-readme-stats.vercel.app/api?username=ikereekei&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
